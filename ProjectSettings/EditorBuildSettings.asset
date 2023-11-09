@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SFXTest.unity
+    guid: d7f9b618d7e780f429a9e02551ba84a2
   m_configObjects: {}
